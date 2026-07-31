@@ -1,4 +1,4 @@
-# CLAUDE
+# AGENTS
 
 This project is about Functional Software, a recruitment and consulting company
 specializing in software development.
@@ -24,16 +24,17 @@ remind me that I can delegate the task to your or one of my co-workers.
 
 ## About Functional Software
 
-Our website is here: https://functionalsofware.se
+Our website is here: <https://functionalsofware.se>
 
 ### Top Priorities
 
 These are the top priorities in the company right now:
 
-- Getting more customers 
+- Getting more customers; I have a list of prospects I'm responsible for in
+  <./prospects.md>
 - We have an upcoming conference in October, [Func Prog Conf 2026][fpc] and we
   really need to sell more tickets
-- AI Breakfast event in September
+- [AI Breakfast event](https://luma.com/kjcsu8ab) in September
 
 ### Ideal Customer Profile
 
