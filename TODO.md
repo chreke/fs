@@ -1,28 +1,30 @@
 # TODO
 
-- [ ] Reply to Sandra Snan
-- [ ] Reply to Matti on LinkedIn
+- [x] Reply to Sandra Snan
+- [x] Reply to Matti on LinkedIn
+- [x] Compile list of my ICP customers
+- [x] Update Eric Torreborre's abstract
 - [ ] Invite Jens as speaker to AI breakfast
-- [ ] Invite guests to AI breakfast
 - [ ] Talk to Pez about his "pre-conference party"
-- [ ] Update Eric Torreborre's abstract
+- [ ] Write Func Prog Conf posts for next week (see <./fpc-2026-content-calendar.md>)
+- [ ] Time reporting Svea
+- [ ] Import candidates to Cream from Candide
+- [ ] Invite some guests to AI breakfast
 - [ ] Put up a new Func Prog Conf speaker
     - [ ] Ask them for an abstract
     - [ ] Get headshot
-- [ ] Content plan for Func Prog Conf
-- [ ] Import candidates to Cream from Candide
-- [ ] Compile list of my ICP customers
 - [ ] Contact three prospects
-- [ ] Skriv till Matti
-- [ ] Time reporting Svea
 - [ ] Look for candidates for Kive
 - [ ] Clean up Todoist
-- [ ] Draft: The Four Dev Temperaments
 - [ ] Write to some people about the conference
-    - Kontakta alla prospekt
-    - Skriv i alla grupper & forum
-    - Kontakta tidigare besökare
-    - Kontakta nya varma leads
-- [ ] Create Claude Code project for FS
-- [ ] Transfer to-dos from Obsidian
+    - Contact functional programming prospects
+    - Write in groups and forums
+    - Reach out to last year's attendees
+    - Contact my warm leads (e.g. on LinkedIn)
+- [ ] Post on LinkedIn
+    - [ ] Is it cringe to put stickers on your laptop? Show off your laptops, give me inspiration
+    - [ ] The Four Dev Temperaments
 - [ ] Fix "past editions" bug on Func Prog Conf page
+- [x] Transfer to-dos from Obsidian
+- [x] Create Claude Code project for FS
+- [x] Content plan for Func Prog Conf
