@@ -34,7 +34,7 @@ These are the top priorities in the company right now:
   <./prospects.md>
 - We have an upcoming conference in October, [Func Prog Conf 2026][fpc] and we
   really need to sell more tickets
-- [AI Breakfast event](https://luma.com/kjcsu8ab) in September
+- AI Breakfast event in September; I have a document about it here <./ai-breakfast.md>
 
 ### Ideal Customer Profile
 
