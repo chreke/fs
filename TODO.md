@@ -1,17 +1,25 @@
 # TODO
 
+- [ ] Contact 10 people about FPC
+    - [ ] Auctionet https://www.linkedin.com/company/auctionet-com/
+- [ ] Write in Haskell groups about FPC
+    - [ ] Discourse
+    - [x] Discord
+    - [ ] LinkedIn group
+- [ ] Write in Scala groups about FPC
+    - [ ] Discord
+    - [ ] LinkedIn group
+- [ ] Write in Clojure groups about FPC
+    - [x] Slack
+    - [ ] LinkedIn group
+- [ ] Write about FPC on my personal LinkedIn
+- [ ] Draft Func Prog Conf posts for week 33
+- [ ] Draft personal LinkedIn posts for week 33
 - [ ] Put up a new Func Prog Conf speaker
     - [ ] Ask them for an abstract
     - [ ] Get headshot
-- [ ] Contact three prospects
-- [ ] Draft week 33 posts for Func Prog Conf
 - [ ] Look for candidates for Kive
 - [ ] Clean up Todoist
-- [ ] Write to some people about the conference
-    - Contact functional programming prospects
-    - Write in groups and forums
-    - Reach out to last year's attendees
-    - Contact my warm leads (e.g. on LinkedIn)
 - [ ] Post on LinkedIn
     - [ ] Write about this online meetup: <https://www.meetup.com/func-prog-sweden/events/315394699>
     - [ ] The Four Dev Temperaments
@@ -25,4 +33,4 @@
 
 ## Later
 
-- [ ] Invite Jens as speaker to AI breakfast (if Marcus doesn't reply)
+- [ ] Invite Jens as speaker to AI breakfast (if Marcus doesn't reply by 2026-08-10)

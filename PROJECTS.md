@@ -2,6 +2,8 @@
 
 ## Getting more customers
 
+We need to get more customers!
+
 We tend to do well with small companies. They are often startups / scale-ups
 that have a hard time recruiting the people they need; they might have tried
 doing it themselves before, but it takes too much time out of their already
@@ -15,8 +17,21 @@ See <./prospects.md> for a list of the prospects I'm responsible for.
 
 ## FPC 2026
 
+Func Prog Conf is an annual funcitonal programming conference that we are
+arranging together with Ada Beat.
+
+We really need to sell more tickets to this conference!
+
+- [FPC website](https://funcprogconf.com/)
+- [Content Calendar](./fpc-2026-content-calendar.md)
+
 ### TODO
 
+- [ ] Sell tickets
+    - Contact functional programming prospects
+    - Write in groups and forums
+    - Reach out to last year's attendees
+    - Contact my warm leads (e.g. on LinkedIn)
 - [ ] Prepare a backup talk (Applicatives for Functor and Profit)
 
 ## AI Breakfast
