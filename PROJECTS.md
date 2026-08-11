@@ -25,6 +25,24 @@ We really need to sell more tickets to this conference!
 - [FPC website](https://funcprogconf.com/)
 - [Content Calendar](./fpc-2026-content-calendar.md)
 
+### Pitch
+
+Func Prog Conf is back for another edition! On October 14th we will host
+another Func Prog Conf in Stockholm; it's a one-day conference focused on
+functional programming, covering Scala, Clojure, Haskell and more!
+
+What you can expect:
+
+- Five expert-led talks exploring functional programming ideas and practical applications
+- A live panel discussion
+- Meet and exchange ideas with 180 functional programmers, speakers, and industry peers.
+- Lunch, coffee and refreshments included.
+- An unforgettable Stockholm setting at historic Kägelbanan, just 150 metres from Slussen.
+
+Come for ideas you can put to work. Leave with a stronger network—and a better
+way to think about software. For more information and to get your tickets:
+https://funcprogconf.com/
+
 ### TODO
 
 - [ ] Sell tickets
