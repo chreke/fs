@@ -15,6 +15,7 @@ Firefly
 Flower
 Folq
 Forza Clubs
+Gelato
 Haypp Group
 Invoier
 Kive
