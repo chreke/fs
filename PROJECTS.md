@@ -64,9 +64,48 @@ trend in AI, discuss and share experiences, network or just hang out.
 The benefit for Functional Software is that it puts us in touch with key
 decision makers.
 
+### Pitch emails
+
+Hello XXX! My company is organizing an AI-themed CTO breakfast and we would like to invite you (plus any of your colleagues form Ethira that would be interested). 
+
+The event takes place at Epicenter on the 9th of september at 08:00—there will be a free breakfast, a presentation and plenty of opportunity to mingle and network during and after the event.
+
+To sign up, please visit this link: https://luma.com/kjcsu8ab
+
+Best regards,
+Christoffer Ekeroth
+
+---
+
+Hello XXX, happy to connect!
+
+I’m putting together a small breakfast for founders and senior decision-makers at AI companies, and I thought you’d be a good fit for the group.
+
+We’re meeting at Epicenter on September 9 at 08:00 for breakfast, a short talk, and an informal discussion with the other attendees.
+
+You can see the details and RSVP here: https://luma.com/kjcsu8ab
+
+If there’s someone on your team you think should join as well, please let me know. Hope to see you there!
+
+Best regards,
+Christoffer Ekeroth
+
+---
+
+Hej XXX! Den 9 september samlar vi en mindre grupp grundare och andra beslutsfattare från AI-bolag i Stockholm för frukost, ett kort föredrag och lite informellt erfarenhetsutbyte. Jag tänkte att det skulle kunna vara intressant för dig och dina kollegor på Normain att vara med!
+
+Här finns mer info och anmälan: https://luma.com/kjcsu8ab
+
+Hoppas vi ses där!
+
+Mvh,
+Christoffer
+
+---
+
 ### TODO
 
-- [ ] Verify that Magnus booked the venue
+- [x] Verify that Magnus booked the venue
 - [ ] Arrange catering
 - [ ] Get a speaker
 
