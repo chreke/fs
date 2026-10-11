@@ -1,6 +1,21 @@
-Alba Health
-All Aboard
-Appostrophe (SCRL)
+# Prospects
+
+## Appostrophe (SCRL)
+
+SCRL är en app för att skapa innehåll för sociala medier. 
+
+Det verkar som att de har gått från att använda Ants till att ha en egen
+Talent-person [Marcus Kong](https://www.linkedin.com/in/marcuskong/). Men man
+kan fortfarande bearbeta dem!
+
+## Alba Health
+
+Elixir
+
+## All Aboard
+
+Elixir
+
 Berget.ai
 Board Intelligence
 Camphouse
