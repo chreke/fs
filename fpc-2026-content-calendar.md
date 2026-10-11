@@ -1,6 +1,6 @@
 # Func Prog Conf 2026 — Content Calendar
 
-## Week 1
+## Posts
 
 ### 2026-08-04 Speaker announcement
 
@@ -36,8 +36,6 @@ You can learn a lot from coding, looking at YouTube videos or reading books, but
 On October 14th we're inviting you to look up from your monitor, step away from the keyboard and participate in Func Prog Conf 2026. It will do more for your career than another day of checking off items on your sprint backlog—we promise.
 
 Get your tickets here: https://funcprogconf.com/
-
-## Week 2
 
 ### 2026-08-11 Early bird tickets sold out
 
@@ -95,81 +93,194 @@ Don’t forget to get your ticket for this year’s conference, so you can watch
 
 https://funcprogconf.com/
 
-## Week 3
+### 2026-08-17 2025 talk: Giacomo Cavalieri
 
-- 2026-08-18 Speaker announce: **Matthías Páll Gissurarson**
-- 2026-08-19 2025 talk: Giacomo Cavalieri, *A Code Centric Journey Into the Gleam Language* — https://www.youtube.com/watch?v=LMrKEaAi4RI
+Curious about Gleam? Start here.
 
-### 2026-08-20 Expense it #1
+In his talk from last year’s Func Prog Conf, Gleam core team member Giacomo Cavalieri takes us on a code-centric tour of the language and asks: what actually makes a programming language friendly?
 
-Want to come to Func Prog Conf, but need your manager to approve the ticket?
+Through practical examples, Giacomo explores Gleam’s design philosophy and shows how it can be used to build type-safe, highly concurrent, and fault-tolerant systems.
 
-A conference is not just a fun day away from the office. It’s an opportunity to learn from experienced practitioners, discover techniques you can use in your own work and meet other developers facing similar challenges.
+If you’re interested in Gleam, the BEAM ecosystem, or programming-language design, this 40-minute introduction will give you plenty to explore.
 
-Func Prog Conf is a full-day conference with five talks, a panel discussion, food and drinks—all in central Stockholm. Tickets are 1,500 SEK.
+Watch the full talk on YouTube:
 
-Here’s an email you can copy, adapt and send to your manager:
+https://www.youtube.com/watch?v=LMrKEaAi4RI
+
+And if you want to watch this year’s talks live, join us in Stockholm on October 14th!
+
+🎟️ Get your ticket: https://funcprogconf.com/
+
+### 2026-08-19 Expense it #1
+
+Want to come to Func Prog Conf 2026, but don't want to pay for it yourself? What if your manager could cover your ticket?
+
+Most companies have a dedicated budget for employee education, and a conference is a perfect way to invest it. Not only will the employees learn new things from the speakers and fellow practitioners-they will also have the opportunity to network and spread the word about the company.
+
+If you need help convincing your manager, here's an email template you can use:
 
 ---
 
 **Subject: Func Prog Conf 2026**
 
 Hi [name],
-
 I’d like to attend Func Prog Conf in Stockholm on October 14th.
 
-It’s a full-day conference focused on functional programming, with five talks and a panel discussion. I expect to learn techniques and ideas that will be useful in my work, particularly around [project, technology or challenge].
+It’s a full-day functional programming conference featuring five talks and a panel discussion. The programme is particularly relevant to [project, technology, or challenge], and I expect to bring back ideas we can apply in our work.
 
-The ticket costs 1,500 SEK and includes food and drinks. Would it be possible to cover the ticket through our training or conference budget and count the day as professional development?
+I’d also be happy to share my main takeaways with the team afterward.
 
-You can find more information here: https://funcprogconf.com/
+The ticket costs 1,500 SEK and includes food and drinks. Could we cover it through our training or conference budget and count the day as professional development?
+
+More information: https://funcprogconf.com/
 
 Thanks!
 
 ---
 
-## Week 4
+Hope to see you at the conference!
 
-- 2026-08-26 Last year in pictures — photo recap
-- 2026-08-27 Who's in the room — roles and companies that came in 2025
+🎟️ Get your ticket: https://funcprogconf.com/
 
-## Week 5
+### 2026-08-31 Speaker announcement: Christoph Neumann
 
-- 2026-09-01 Speaker announce: **Christoph Neumann**
-- 2026-09-02 **Full lineup** — all five, one graphic. Every speaker reposts the same day
-- 2026-09-03 Why we run this — Christoffer's voice + Ada Beat
+What happens when we view software development as an infinite game?
 
-## Week 6
+We’re excited to welcome Christoph Neumann to Func Prog Conf 2026!
 
-- 2026-09-08 Abstract: Adam Warski
-- 2026-09-10 Value framing — 5 talks, panel, food and drinks, Södra Teatern, 1500 SEK
+Christoph is a programming fanatic, entrepreneur, and developer advocate for the Clojure team. His work has taken him into high-stakes industries including manufacturing and live sports production, powering projects for Hewlett Packard, the NFL, Wimbledon, Call of Duty, and The Overwatch League.
 
-## Week 7
+In his talk, “Infinite Coding,” Christoph will explore how treating software development as an infinite game changes the way we think about success, cost, and our ability to keep evolving software over time.
 
-- 2026-09-15 Countdown: one month to go
-- 2026-09-17 Abstract: Adam Tornhill
+He’ll also introduce foundational principles that shaped Clojure—and show how they can help create successful, long-lived codebases while making development more sustainable for the people maintaining them.
 
-## Week 8
+Join us in Stockholm on October 14th to learn how functional programming and immutability can help us build software for the long run!
 
-- 2026-09-22 Abstract: Matthías Páll Gissurarson
-- 2026-09-24 Sponsors — spotlight or thank-you
+🎟️ Get your ticket: https://funcprogconf.com/
 
-## Week 9
+### 2026-09-01 Did you know?
 
-- 2026-09-29 Abstract: Eric Torreborre
-- 2026-10-01 Schedule published — full running order
+Did you know there’s a functional programming conference in Stockholm?
 
-## Week 10
+Whether you work with Scala, explore the Lisp family through Clojure, build on the BEAM with Elixir, or enjoy languages such as Haskell and Unison—Func Prog Conf is for you.
 
-- 2026-10-06 Abstract: Christoph Neumann
-- 2026-10-07 The panel — topic and participants
-- 2026-10-08 Expense it #2 — last call, one week to go
+Join 180 functional programmers in central Stockholm for a full day of talks, new ideas, and conversations with people who care about better ways to build software.
 
-## Week 11
+📅 October 14th
+📍 Kägelbanan, Södra Teatern
+🎤 Five speakers and a panel discussion
+🍴 Food and drinks included
+
+Tickets are 1,500 SEK.
+
+🎟️ Get yours: https://funcprogconf.com/
+
+### 2026-09-02 Sponsor presentation: Agical
+
+We’re proud to welcome Agical as a sponsor of Func Prog Conf 2026!
+
+Agical is a Stockholm-based consultancy full of people who love software and product development, technical excellence, and collaboration. They help companies with hands-on programming, team coaching, and the skills needed to deliver better software earlier.
+
+Their philosophy is simple: knowledgeable people with the freedom to act beat any process. And they don’t keep what they learn to themselves—Agical shares ideas through podcasts such as Väg 74, articles, workshops, and community events, including meetups for Stockholm’s Clojure community.
+
+If your team needs experienced developers, stronger collaboration, or some fresh energy, talk to Agical.
+
+Learn more: https://www.agical.se/
+
+Thank you, Agical, for supporting Stockholm’s functional programming community!
+
+🎟️ Join us on October 14th: https://funcprogconf.com/
+
+### 2026-09-03 Ask your boss
+
+Your Func Prog Conf ticket might already be in the budget.
+
+Ask your boss this:
+
+“Can the company cover my ticket as professional development? I’ll bring the best ideas back to the team.”
+
+That’s it. One message could get you a full day of functional programming talks, practical ideas, and new connections—for 1,500 SEK.
+
+🎟️ Send the message, then get your ticket: https://funcprogconf.com/
+
+### 2026-09-04 Speaker announcement: Giuseppe Castagna
+
+What does it take to bring a type system to a dynamically typed language like Elixir?
+
+We’re excited to welcome Giuseppe Castagna to Func Prog Conf 2026!
+
+Giuseppe is a Senior Research Scientist at CNRS and Université Paris Cité, and the director of IRIF. His research spans programming languages and type theory, with a particular focus on set-theoretic types.
+
+He led the research behind Elixir’s new gradual set-theoretic type system, working with Guillaume Duboc and Elixir creator José Valim to bring types to the language without losing the flexibility that makes Elixir Elixir.
+
+We’ll share more about Giuseppe’s talk soon. In the meantime, you can watch “Bringing Types to Elixir,” his ElixirConf EU 2023 presentation with Guillaume Duboc:
+
+https://www.youtube.com/watch?v=gJJH7a2J9O8
+
+Join us in Stockholm on October 14th to hear from one of the researchers shaping the future of Elixir!
+
+🎟️ Get your ticket: https://funcprogconf.com/
+
+### 2026-09-14
+
+Here is the full schedule for this year's Func Prog Conf 2026!
+
+ • 08:00 Doors open
+ • 09:00 Welcome
+ • 09:15 Transforming Software Evolution - Adam Tornhill
+ • 10:00 Coffee break
+ • 10:30 Beyond the Expression Problem - Eric Torreborre
+ • 11:15 Lunch
+ • 12:30 The Scala 3 Features for Agentic Development, Today and Tomorrow - Adam Warski
+ • 13:15 Short break
+ • 13:30 All Set: Bringing Static Types to Elixir - Giuseppe Castagna and Guillaume Duboc
+ • 14:15 Coffee break
+ • 14:45 Infinite Coding - Christoph Neumann
+ • 15:30 Refreshments
+ • 16:00 Panel discussion
+ • 17:00 Mingle
+
+Join us in Stockholm on October 14th to hear from some of the top voices in functional programming right now!
+
+🎟️ Get your ticket: https://funcprogconf.com/
+
+## Schedule
+
+### Week 36
+
+- 2026-08-31 Speaker announcement: **Christoph Neumann**
+- 2026-09-01 (pure ad)
+- 2026-09-02 Sponsor presentation: Agical
+- 2026-09-03 How to get your boss to sponsor tickets
+- 2026-09-04 Giueseppe Castagna announcement
+
+### Week 37
+
+- 2026-09-07 Ad
+- 2026-09-09 Sponsor presentation: Multiply
+- 2026-09-11 Full speaker roster (hopefully!)
+
+### Week 38
+
+- 2026-09-14 Full schedule
+- 2026-09-16 Countdown: one month to go
+- 2026-09-17 AI + FP
+- 2026-09-18 Giuseppe + Guillaume
+
+### Week 39
+
+- 2026-09-21 Panel
+
+### Week 40
+
+### Week 41
+
+### Week 42
 
 - 2026-10-12 Practicals — venue, getting there, timings, what's included
 - 2026-10-13 Countdown: tomorrow
 - 2026-10-14 Live from the day
+
 
 ## Themes
 
