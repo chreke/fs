@@ -52,68 +52,50 @@ https://funcprogconf.com/
     - Contact my warm leads (e.g. on LinkedIn)
 - [ ] Prepare a backup talk (Applicatives for Functor and Profit)
 
-## AI Breakfast
+## GitHub DevDays
 
-Date & Time: 2026-09-09 08:00-10:00
-Event page: <https://luma.com/kjcsu8ab>
+Dev Days is a global, in-person community-led initiative taking place from
+September 1st - October 31st, 2026. The series brings together developers,
+enthusiasts, and local tech communities to explore the power of GitHub Copilot
+through practical, hands-on experiences.
 
-The AI Breakfast is a series of events where we invite decision makers at
-software companies (CEOs, CTOs, founders, etc) to learn about the latest
-trend in AI, discuss and share experiences, network or just hang out.
+Open to all developers, each session runs for approximately 2-3 hours and
+focuses on real-world workflows, hands-on activities, and workshops centered on
+GitHub Copilot in the Copilot app and the CLI.
 
-The benefit for Functional Software is that it puts us in touch with key
-decision makers.
+Dev Days are flexible - please tailor the format to fit your community! We
+recommend using one of the following two formats, depending on your community's
+experience, audience, and available infrastructure.
 
-### Pitch emails
+- Sessions-only format: Focused on technical talks and demos around GitHub
+  Copilot.
 
-Hello XXX! My company is organizing an AI-themed CTO breakfast and we would like to invite you (plus any of your colleagues form Ethira that would be interested). 
+- Sessions + Workshop format: Combines technical sessions with a hands-on
+  workshop for deeper, practical learning.
 
-The event takes place at Epicenter on the 9th of september at 08:00—there will be a free breakfast, a presentation and plenty of opportunity to mingle and network during and after the event.
+Both formats are designed to be interactive and hands-on, encouraging
+participants to learn by doing.
 
-To sign up, please visit this link: https://luma.com/kjcsu8ab
+FAQ: <https://github.com/github/dev-days/blob/main/FAQ.md>
 
-Best regards,
-Christoffer Ekeroth
+<https://dev-days.github.com/>
 
----
+### Info Email
 
-Hello XXX, happy to connect!
+Congrats! Your Dev Days event has been approved. Some next steps:
 
-I’m putting together a small breakfast for founders and senior decision-makers at AI companies, and I thought you’d be a good fit for the group.
+We have created your Luma event page on your behalf and added you as a host.
+Please check your email for the invitation. As host of your Luma event
+registration page, you can make updates directly on Luma. You can update the
+event description, location, time, and other basic information. Do not remove
+the existing registration questions. You may add one or two questions after the
+existing registration questions. Dev Days | Stockholm, Sweden · Luma
 
-We’re meeting at Epicenter on September 9 at 08:00 for breakfast, a short talk, and an informal discussion with the other attendees.
+You'll also get added to a Slack channel shortly for communication with the Dev
+Days program team, we encourage all communication through Slack.
 
-You can see the details and RSVP here: https://luma.com/kjcsu8ab
+If you requested a swag package, you will receive an email from
+github@succinctive.com.
 
-If there’s someone on your team you think should join as well, please let me know. Hope to see you there!
-
-Best regards,
-Christoffer Ekeroth
-
----
-
-Hej XXX! Den 9 september samlar vi en mindre grupp grundare och andra beslutsfattare från AI-bolag i Stockholm för frukost, ett kort föredrag och lite informellt erfarenhetsutbyte. Jag tänkte att det skulle kunna vara intressant för dig och dina kollegor på Normain att vara med!
-
-Här finns mer info och anmälan: https://luma.com/kjcsu8ab
-
-Hoppas vi ses där!
-
-Mvh,
-Christoffer
-
----
-
-### TODO
-
-- [x] Verify that Magnus booked the venue
-- [ ] Arrange catering
-- [ ] Get a speaker
-
-### Notes
-
-- I contacted [Marcus Olsson][marcusolsson] about speaking at the AI breakfast,
-  but I haven't heard back from him. I'll try again on Monday in case he's been
-  on vacation, otherwise I'll reach out to Jens Klements <jens@nordalster.se>
-  and ask him.
-
-[marcusolsson]: https://www.linkedin.com/in/marcusolsson1/
+For a full FAQ, you can find that in the Dev Days repo. You can reach us at
+dev-days@microsoft.com.
