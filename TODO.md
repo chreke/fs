@@ -1,7 +1,12 @@
 # TODO
 
 - [ ] Estimate ZeroMission
-- [ ] Reply to the .NET meetup thing - check Felix's suggested dates
+- [ ] Review Cream feedback
+- Reach out to potential speakers for AI conference
+    - [x] Guillame Duboc
+    - [x] David Thrane Christiansen
+    - [ ] Johanna Larsson
+    - [ ] Michał Muskała
 - [ ] Invite some more people to AI breakfast
 - [x] Review ZeroMission RFP
 - [ ] Draft personal LinkedIn posts for week 34
@@ -34,7 +39,7 @@
     - [-] Pit
     - [ ] Playground
     - [x] Quanor
-    - [ ] RedEye
+    - [x] RedEye
     - [ ] Tandem Health
     - [ ] Turbotic
 - Post on LinkedIn
@@ -52,14 +57,13 @@
 - [x] Message David A Gil about [Xebia hiring Scala engineers](https://www.linkedin.com/posts/davidgilmendez_dear-scala-community-we-are-hiring-share-7495076023416557569-U_-B/)
 - [x] Följ upp rekrytering på CGM <https://www.linkedin.com/posts/andreasstrandberg_jag-och-min-avdelning-rekryterar-och-jag-share-7496091664684564480-IKqv/>
 - [x] Send draft bio + presentation to Matti
+- [x] Reply to the .NET meetup thing - check Felix's suggested dates (September 23rd)
 
 ## Inbox
 
 ## Waiting for
 
-- [x] Magnus ska skicka kravspec för NetZero-projektet
 - [ ] Mindroad ska höra av sig angående Rust-rollerna
-- [ ] Matti ska skicka abstract + bild
 - [ ] GH DevDays confirmation <https://sponsors.plainsight.app/s/68pwzYDCZTIn/edit/Bkd5sJqd1HYi1UU77JS9J>
 
 ## Later
