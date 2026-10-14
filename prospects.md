@@ -20,8 +20,6 @@ Kong](https://www.linkedin.com/in/marcuskong/).
 
 ## Alba Health
 
-Elixir
-
 Alba Health is a Stockholm health tech startup focused on children's gut health
 (microbiome tests plus personalized guidance for parents). Their stack is
 Phoenix/LiveView for the admin interface and API, Oban for running their
@@ -31,28 +29,28 @@ Erik Johansson is their Tech Lead; he [posted an Elixir job on Elixir
 Forum][alba-job] and asked people to apply to <erik@albahealth.se>.
 
 - Careers page: <https://albahealth.com/pages/career>
+- Tech stack: Elixir
 
 [alba-job]: https://elixirforum.com/t/mid-senior-engineer-alba-health-stockholm-sweden/69893
 
 ## All Aboard
-
-Elixir
 
 <https://www.linkedin.com/company/all-aboard/>
 
 I'm connected with [Elin Olsson][elinolsson] since before
 
 - Careers page: <https://allaboard.eu/company#careers>
+- Tech stack: Elixir
+
 
 [elinolsson]: https://www.linkedin.com/in/elin-olsson-8315a0133/
 
 ## Aucitonet
 
-Elixir
-
 [Albert Ramstedt][albertramstedt]
 
 - Careers page <https://careers.auctionet.com/jobs>
+- Tech stack: Elixir
 
 [albertramstedt]: https://careers.auctionet.com/people/6646-albert-ramstedt
 
@@ -65,7 +63,8 @@ Ventures, Wellstreet and Norrsken Evolve.
 
 The co-founders are [Christian Landgren][landgren] and Andreas Lundmark.
 
-I have had contact with their devrel [Marcus Olsson][marcusolsson] previously, but he has been ghosting me lately.
+I have had contact with their devrel [Marcus Olsson][marcusolsson] previously,
+but he has been ghosting me lately.
 
 - Careers page: <https://odoo.berget.ai/jobs>
 
@@ -83,19 +82,6 @@ Developers and DevOps engineers in Stockholm.
 
 - I couldn't find a specific contact person.
 - Careers page: <https://www.boardintelligence.com/careers>
-
-## Camphouse
-
-Camphouse (formerly Mediatool) is a media planning and operations SaaS. It
-started in Sweden and is now headquartered in New York, with offices in
-Stockholm, Malmö, London and Montpellier. L'Oréal picked them in 2026 as their
-global media planning system.
-
-Founders: Alexander Högman (CEO), Ludwig Magnusson (CTO), Magnus Ohlin (Chief
-Innovation Officer) and Joakim Landberg (CISO). Orestis Rodriguez is Head of
-Engineering, and Caroline Bejstam handles HR.
-
-- Careers page: <https://career.camphouse.io/jobs>
 
 ## CarbonCloud
 
@@ -122,18 +108,10 @@ mention .NET/C#, and they have hired full-stack developers for TakeCare.
 Jesper Söderqvist has been VD since March 2025, and Torbjörn Hedberg is
 (interim) product manager for TakeCare.
 
-- Jobs are on [Indeed](https://se.indeed.com/cmp/Compugroup-Medical/jobs) and LinkedIn; I couldn't find a
-  dedicated careers page.
+My old acquiantance Karin Bogren works here as a talent partner.
 
-## Cogny
-
-Cogny is a Stockholm company offering "AI marketing on autopilot". It connects
-to your ad accounts and an AI analyzes, plans and runs the campaigns. The
-founders previously started Campanja, which was acquired by 247.ai.
-
-Founders: Tom Ström (CEO) and Berner Setterwall (CTO).
-
-- I couldn't find a careers page.
+- Jobs are on [Indeed](https://se.indeed.com/cmp/Compugroup-Medical/jobs) and
+  LinkedIn; I couldn't find a dedicated careers page.
 
 ## Droppa
 
@@ -145,8 +123,12 @@ with e-commerce platforms and 3PLs via API.
 
 Anton Bukowski is founder and CEO.
 
+- CTO: [Viktor Sahlström][vitkorsahlstrom] 
+- Tech stack: Scala, Rust
 - Website: <https://www.droppa.com/>
 - I couldn't find a careers page; the general contact is <hello@droppa.com>.
+
+[vitkorsahlstrom]: https://www.linkedin.com/in/viktor-sahlstr%C3%B6m/
 
 ## Engram
 
@@ -182,8 +164,13 @@ Entryfy builds cloud-based digital access control (doors via app, key card or
 PIN) for self storage, retail, offices and real estate. They're based in Kista
 and came out of the surveillance industry in 2013.
 
-- I couldn't find a contact person or a careers page; the general contact is
-  <sales@entryfy.com>.
+We have talked with Patrik about recuriting in the past. Last time we spoke (in
+September 2026) they were still hiring.
+
+- CTO: [Patrik Sjödin][patriksjodin]
+- Tech stack: Elixir
+
+[patriksjodin]: https://www.linkedin.com/in/patrik-sj%C3%B6din-0a645167/
 
 ## Firefly
 
@@ -207,14 +194,12 @@ John Diklev is founder and CEO.
 
 ## Folq
 
-Folq is an Oslo-based (Norwegian) marketplace for IT consultants. It was spun
-out of the consulting firm Blank and says it has more than 3,000 consultants in
-its network. They could be a channel for our consultants rather than a
-customer.
+Folq is an Oslo-based (Norwegian) marketplace for IT consultants. They are
 
 Eldri Coll Mossige is CEO.
 
 - Careers page: <https://www.folq.no/karriere/>
+- Tech stack: Haskell
 
 ## Forza Clubs
 
@@ -226,7 +211,7 @@ the past, alongside native iOS/Android.
 Jonas Linné is CEO of Forza Football. I couldn't find a tech contact for Forza
 Clubs specifically.
 
-- I couldn't find a careers page.
+- Tech stack: Elixir
 
 ## Gelato
 
@@ -327,7 +312,9 @@ Lysande is a Swedish "AI visibility" platform (SEO/GEO/AEO) that shows how AI
 assistants describe your brand compared with competitors. It looks very new
 and small.
 
-- I couldn't find a contact person or a careers page.
+I know the founder, [Felipe Otarola][felipe], from Svea Bank
+
+[felipe]: https://www.linkedin.com/in/felipe-otarola/
 
 ## Meela
 
@@ -347,8 +334,10 @@ Becki in the past, but I haven't managed to close any deals with her.
 
 ## Mimicate
 
-Mimicate is my friend Joel Kall's company. Their website (mimicate.com) is
-empty for now, and I couldn't find anything else online.
+Mimicate is my friend [Joel Kall][joelkall]'s company; their plan is to use
+world models to simulate outcomes for e.g. ecommerce companies?
+
+[joelkall]: https://www.linkedin.com/in/joelwkall/
 
 ## Neko Health
 
@@ -367,8 +356,7 @@ Step Functions or similar workflow engines. They have their own tech recruiters
 
 ## Nimbl Insights AB
 
-Nimbl Insights is/was a stealth startup (registered as a holding company, org.
-no. 559536-3655); they might have gone under. I'm researching them myself.
+Nimbl Insights is/was a stealth startup. They might have gone under.
 
 ## Nordomatic
 
@@ -389,7 +377,7 @@ Farberger, among others).
 
 [Sara Landfors][landfors] is founder and CEO.
 
-- I couldn't find a careers page.
+- Careers page: <https://www.nomain.com/careers>
 
 [landfors]: https://se.linkedin.com/in/landfors
 
@@ -403,7 +391,7 @@ acquired by iZafe in 2022.
 Francesco Mazzotta was CEO (it's unclear if he still is after the
 acquisition).
 
-- I couldn't find a careers page.
+- Tech stack: Clojure
 
 ## Ping Payment
 
