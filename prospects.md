@@ -339,6 +339,34 @@ world models to simulate outcomes for e.g. ecommerce companies?
 
 [joelkall]: https://www.linkedin.com/in/joelwkall/
 
+## Modal
+
+Modal (Modal Labs) is a serverless cloud for AI: you run Python functions on
+autoscaling GPUs, plus sandboxes for AI-generated code. It's headquartered in
+New York, with offices in San Francisco and **Stockholm**, and has 120+
+employees. It's growing very fast: they raised a Series B at a $1.1B valuation
+in September 2025, then a $355M Series C in May 2026 (General Catalyst and
+Redpoint) at about $4.65B. Annualized revenue is reportedly around $300M.
+
+They're hiring a [Member of Technical Staff - Systems][modal-job] in
+Stockholm, on-site. The role covers the high-performance distributed systems
+and low-level OS foundations under their serverless platform. They ask for 5+
+years of production code, strong cloud skills and OS knowledge; **Rust** is
+nice to have but not required (reportedly they have rewritten much of their
+core infrastructure in Rust). One job board lists the pay as $140K–200K plus
+equity. They have other Stockholm roles too, e.g. MTS Python SDK (New York or
+Stockholm) and forward deployed engineers. It's a very high bar, and they have
+their own talent team, so it may be hard to get in.
+
+Erik Bernhardsson (Swedish, ex-Spotify, created Luigi and Annoy) is co-founder
+and CEO; Akshat Bubna is co-founder and CTO. Erik's Stockholm connection
+probably explains the office there.
+
+- Careers page: <https://jobs.ashbyhq.com/modal>
+- Tech stack: Python, Rust
+
+[modal-job]: https://jobs.ashbyhq.com/modal/3b3c6c42-326e-40c5-b78d-9f556739513b
+
 ## Neko Health
 
 Neko Health is a Stockholm health tech scale-up founded by Hjalmar Nilsonne
