@@ -633,6 +633,32 @@ Vorker is a Stockholm startup building an "AI coworker" for small businesses
 
 [krossling]: https://se.linkedin.com/in/theerikcruz
 
+## Xensam
+
+Xensam is a Solna company, founded in 2016, that makes AI-powered, cloud-based
+Software Asset Management (SAM): it helps IT teams keep track of software
+licenses and cut license costs. It was bootstrapped until February 2024, when
+it raised $40M from Expedition Growth Capital to build AI features and expand
+in the US and Europe. It has roughly 100–200 employees and also has an office
+in Bucharest.
+
+They're hiring a [Senior Backend Developer][xensam-job] in R&D (Stockholm,
+hybrid). The role covers backend services and APIs, architecture decisions and
+mentoring. Requirements are distributed systems, APIs and relational
+databases/SQL; **Rust** and PostgreSQL at scale are listed as a bonus. Older
+backend ads asked for C#/.NET, so the stack is probably mostly .NET with some
+Rust. The ad has been up since June 2026, which suggests it's hard to fill.
+They're also hiring an SQL Database Developer and an AI Enablement Engineer.
+They have hired a Talent Acquisition Specialist of their own, so they have
+an in-house recruiter.
+
+The founders are brothers Oskar Fösker (CEO) and Gustav Fösker (CTO).
+
+- Careers page: <https://careers.xensam.com/jobs>
+- Tech stack: C#/.NET, Rust (bonus)
+
+[xensam-job]: https://careers.xensam.com/jobs/7890772-senior-backend-developer
+
 ## Xlent
 
 XLENT is a Swedish IT consulting company (IT, AI and development).
