@@ -194,7 +194,7 @@ John Diklev is founder and CEO.
 
 ## Folq
 
-Folq is an Oslo-based (Norwegian) marketplace for IT consultants. They are
+Folq is an Oslo-based (Norwegian) marketplace for IT consultants.
 
 Eldri Coll Mossige is CEO.
 
@@ -244,7 +244,6 @@ systems, embedded hardware, secure networking protocols and ML inference "at
 the tactical edge". They have their own recruitment function, so it may be
 hard to get in.
 
-- I couldn't find a specific contact person for the Stockholm office.
 - Careers page: <https://helsing.ai/careers>
 
 [helsing-job]: https://www.linkedin.com/jobs/view/4435909275/
@@ -262,7 +261,7 @@ they have no recruitment function of their own.
 Teenie Fung is founder and CEO.
 
 - Website: <https://www.hypertype.ai/>
-- I couldn't find a careers page; the job is on LinkedIn.
+- Careers page: <https://careers.hypertype.ai/jobs>
 
 [hypertype-job]: https://www.linkedin.com/jobs/view/4457660793/
 
@@ -303,6 +302,9 @@ product photography for consumer brands. Stack: TypeScript, Node, React,
 Firestore and Google Cloud.
 
 Olof Lindh is founder and CEO.
+
+We have tried collaborating with them before, but we couldn't find anyone up
+to the founder's standards.
 
 - Careers page: <https://kiveai.notion.site/Work-at-Kive-304f5135e42c8078ac44df36a1ba72b8>
 
@@ -636,7 +638,13 @@ connections.
 Thomas Eriksson is CEO and co-founder, and Per Bystedt is chairman and
 co-founder.
 
+My friend Robin works there.
+
 - I couldn't find a careers page.
+
+## Validio
+
+- Careers page: <https://jobs.ashbyhq.com/validio>
 
 ## VetFamily
 
@@ -695,6 +703,7 @@ Consultancies are a natural fit for our consulting company deal.
 Charlotte Korssell is CEO.
 
 - Careers page: <https://jobb.xlent.se/jobs>
+
 
 ## Yellowelk
 
