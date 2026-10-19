@@ -472,6 +472,20 @@ Joakim Green is founder and CEO, with a developer background.
 
 - Careers page: <https://join.proposales.com/jobs>
 
+## Qliro
+
+Fintech. I'm connected with [Jonas Urve][urve] since earlier.
+
+- Tech stack: C#, React, AI Native
+- Careers page: <https://career.qliro.com/>
+
+### Log
+
+- 2026-10-19 Pinged Jonas Urve about recruitment, but he replied that they
+  don't work with external recruiters. It's a "no", but no "no" is permanent!
+
+[urve]: https://www.linkedin.com/in/jonas-urve-71a70447/
+
 ## Recorded Future
 
 Recorded Future is a threat intelligence company founded in Gothenburg
@@ -538,6 +552,24 @@ it's an American company, not Swedish.
 Derrick Reimer is founder and the one to talk to.
 
 - I couldn't find a careers page.
+
+## Shoppa
+
+Shoppa
+
+Shoppa is a Nordic SaaS company helping retailers create smarter in-store
+communication and more consistent customer experiences through our cloud-based
+platform.
+
+They are looking for developers in Enköping, which is between Västerås and
+Uppsala, so they would be perfect for our upcoming meetup in Uppsala.
+
+- Job ad: <https://www.linkedin.com/jobs/view/4477662907>
+- CTO: [Fredrik Norberg][norberg]
+- CEO: [Jonas Hillstrom][hillstrom]
+
+[hillstrom]: https://www.linkedin.com/in/jonashillstrom/
+[norberg]: https://www.linkedin.com/in/fredrik-norberg-5433996b/
 
 ## Sitoo
 
