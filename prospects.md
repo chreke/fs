@@ -172,6 +172,27 @@ September 2026) they were still hiring.
 
 [patriksjodin]: https://www.linkedin.com/in/patrik-sj%C3%B6din-0a645167/
 
+## Evolution
+
+Evolution is the Nasdaq-listed live casino and online gaming company, with
+engineering hubs in Stockholm and Gothenburg (and elsewhere in Europe).
+**Their backend is Scala with Cats/Cats Effect** (tagless final), and they
+publish open-source Scala libraries such as skafka.
+
+Their careers page didn't list any Swedish engineering roles when I checked
+(19 October 2026); the vacancy list is loaded dynamically. They advertised a
+Backend Developer (Scala) in Stockholm, on the Slot team and fully on-site, in
+January 2026, but that ad has closed.
+
+They're a large company with their own recruitment team, so it's a weak ICP
+fit. They're interesting mainly because they're one of the biggest employers
+of functional programmers in Sweden: useful for candidate sourcing and FPC
+sponsorship.
+
+- I couldn't find a specific contact person.
+- Careers page: <https://careers.evolution.com/engineering/sweden/>
+- Tech stack: Scala
+
 ## Firefly
 
 Firefly AB is a Stockholm industrial company that makes fire and spark
@@ -224,6 +245,34 @@ CTO; see <https://www.gelato.com/leadership> (their site blocked my requests,
 so I couldn't get his full name).
 
 - Careers page: <https://www.gelato.com/careers>
+
+## Hailey HR
+
+Hailey HR is a Stockholm HR tech startup, founded in 2020. It's an HR system
+for SMEs (contracts, onboarding, absence, salary review, surveys), expanding
+across the Nordics, Germany, the UK and Poland. They raised €2.6M from 41an
+Invest (Stefan Krook and Karl-Johan Persson) plus a €1.7M loan from ArK
+Kapital in 2023.
+
+Henrik Jakobsson is CEO. Victoria Svanström is the contact person on the job
+ads.
+
+They're hiring three engineering roles, all on-site in Hornstull:
+
+- [AI Software Developer][hailey-ai-dev]: AI team; requires hands-on LLM
+  experience and C1 Swedish and English
+- [AI Evaluation Engineer][hailey-ai-eval]: evaluating their AI features
+- [Backend Developer – Integrations][hailey-backend]
+
+They also have sales and customer success roles open for Norway and Finland.
+Three tech roles at once in a startup is a good angle. Check whether Victoria
+is an internal recruiter before reaching out.
+
+- Careers page: <https://haileyhr.careers.haileyhr.app/>
+
+[hailey-ai-dev]: https://haileyhr.careers.haileyhr.app/en-GB/job/b7bdc0a7-c16f-4e8e-84ba-b964bdaf8a9f/09c0a21f-60ac-42b1-b999-2eee001c9af7/79b6b907-7a8f-45c2-857a-ff0c96ec5c5a
+[hailey-ai-eval]: https://haileyhr.careers.haileyhr.app/en-GB/job/b7bdc0a7-c16f-4e8e-84ba-b964bdaf8a9f/ee77323d-7c66-4a18-8cb3-fc86e6001189/7b2575c0-baed-4972-be2c-90cb739f12c0
+[hailey-backend]: https://haileyhr.careers.haileyhr.app/en-GB/job/b7bdc0a7-c16f-4e8e-84ba-b964bdaf8a9f/f0e5c2fb-1a61-4d51-aedc-fdc5951077c2/f5626d5d-256e-4e45-a7b8-4b6cbf7246c1
 
 ## Haypp Group
 
@@ -449,6 +498,23 @@ on the Product team. Sara Gomér is Head of People & Culture.
 [pinmeto-henrik]: https://careers.pinmeto.com/people/1052144-henrik-schmidt
 [pinmeto-chris]: https://careers.pinmeto.com/people/1510361-chris-hedgate
 
+## Podspace
+
+Podspace is a Swedish podcast hosting and monetization platform: hosting,
+distribution, analytics, dynamic ad insertion, its own ad network and
+subscriptions. It's the second-largest podcast ad network in Sweden. Partners
+include Bonnier News, Amedia and NTM. In 2025 they had six-fold revenue
+growth, turned profitable and started expanding into Europe and the US.
+
+Carl Fridsjö is CEO and co-founder. In 2025 they hired Lovisa Skeppe (Senior
+Backend Developer, ex-SoundCloud), Chris Jelinski (VP Operations, ex-Spotify
+and Acast) and Annie Thorell (Product Manager).
+
+Their website has no careers page, and I couldn't find any open roles (19
+October 2026).
+
+- Website: <https://www.podspace.com/>
+
 ## ProffsMagasinet
 
 ProffsMagasinet is a Stockholm e-commerce company for tools and measuring
@@ -571,6 +637,22 @@ Uppsala, so they would be perfect for our upcoming meetup in Uppsala.
 [hillstrom]: https://www.linkedin.com/in/jonashillstrom/
 [norberg]: https://www.linkedin.com/in/fredrik-norberg-5433996b/
 
+## Sinch
+
+Sinch is the Nasdaq-listed communications platform (SMS, voice, video, email
+APIs), headquartered in Stockholm. It's a large company with its own
+recruitment function, so it's a weak ICP fit.
+
+Their careers page loads jobs dynamically, so I couldn't see Swedish roles
+there. Past Stockholm ads include a Senior Software Engineer for the In-App
+Calling platform (C#/.NET Core, Kubernetes, AWS). It was recruited through the
+agency Bravura, so **they do use external recruiters**. Other past ads include
+a Senior FinOps/DevOps Engineer and Junior Data Platform Engineer. Check the
+careers page in a browser with the Sweden filter for current roles.
+
+- I couldn't find a specific contact person.
+- Careers page: <https://www.group.sinch.com/careers/join-us/>
+
 ## Sitoo
 
 Sitoo is a cloud-based unified commerce/POS platform for fashion and lifestyle
@@ -626,6 +708,30 @@ are in customer service and sales, so I'm not sure they have their own tech
 team; Jakob is listed as Product Manager.
 
 - Careers page: <https://sweef.teamtailor.com/jobs>
+
+## Swish (Getswish AB)
+
+Getswish AB runs Swish, the Swedish mobile payment service, owned by the major
+Swedish banks. About 120 employees, with offices in central Stockholm and
+Östersund. Stack: Java/Spring Boot, React or Vue, Docker/Kubernetes.
+
+They're hiring a [Head of Platform][swish-hop] (Stockholm, hybrid; reports to
+the CTO, people manager for the Platform team, Swedish required). They're also
+hiring a [Software Engineer][swish-se] in Stockholm, a Senior Apputvecklare
+and a Backendutvecklare in Östersund. Rolling recruitment, no deadlines. The
+Software Engineer ad says consultants aren't being considered.
+
+**They're also hiring a Talent Acquisition Partner**, so they probably lack
+recruiting capacity right now. That's a good angle: offer to cover the gap
+(for example the Head of Platform search) until the new TA partner is in
+place.
+
+- I couldn't find the CTO's name; check LinkedIn.
+- Careers page: <https://getswish.teamtailor.com/jobs>
+- Tech stack: Java
+
+[swish-hop]: https://getswish.teamtailor.com/jobs/8511771-head-of-platform
+[swish-se]: https://getswish.teamtailor.com/jobs/8271067-software-engineer
 
 ## TBAuctions
 
@@ -689,6 +795,29 @@ Thunell is CEO.
 
 - I couldn't find a careers page; the general contact is
   <contact@vetfamily.com>.
+
+## Volumental
+
+Volumental is a Stockholm FitTech company, founded in 2012, with about 60
+employees. It does 3D foot scanning plus AI-based fit recommendations for shoe
+retailers (New Balance, Crocs, Fleet Feet), in 3,000+ stores across 60+
+countries.
+
+They're hiring a [Platform Engineer][volumental-job] (Stockholm, hybrid with
+at least 3 days in the office, 52–66k SEK/month), published 9 October 2026.
+Stack: Kubernetes on GCP, Terraform, Helm, ArgoCD/GitOps, Grafana, and Go (or
+Python) for internal tooling. Requirements: 3+ years of SRE/DevOps/platform
+experience with on-call. Bonus: deploying AI agent workloads or MCP servers.
+They also have a Lead Service Designer role open.
+
+They're hiring a **Senior People Partner** too, so they may not have recruiting
+capacity in-house right now. I couldn't find a named contact; look up their
+CTO or Head of Engineering on LinkedIn.
+
+- Careers page: <https://jobs.volumental.com/jobs>
+- Tech stack: Go
+
+[volumental-job]: https://jobs.volumental.com/jobs/8526199-platform-engineer
 
 ## Vorker.ai
 
