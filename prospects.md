@@ -246,6 +246,26 @@ so I couldn't get his full name).
 
 - Careers page: <https://www.gelato.com/careers>
 
+## Grunden AI
+
+Grunden AI (Solna) runs its own GPU clusters in Nordic data centers and offers
+open models through an OpenAI-compatible API (Grunden API) and a team AI
+workspace (Grunden Cowork), pitched on data staying in Europe and predictable
+pricing. In October 2026 the software investor Monterro [made a majority
+investment][grunden-monterro]; Grunden powers Monterro's AI platform Enclave
+for its portfolio companies, but stays independent with external customers.
+
+I have been in contact with their CTO [Fredrik Andersson][frasse] before. John
+Patrick Berlips (ex-ApoEx/Medovia) is also at Grunden now; see
+`fpc-2026-outreach-contacts.md`.
+
+Not hiring as far as I know, but the new investment may change that.
+
+- I couldn't find a careers page; general contact is <hello@grunden.ai>.
+
+[grunden-monterro]: https://www.placera.se/telegram/monterro-gor-majoritetsinvestering-i-svenska-ai-bolaget-grunden-ai-20261012
+[frasse]: https://www.linkedin.com/in/frasse/
+
 ## Hailey HR
 
 Hailey HR is a Stockholm HR tech startup, founded in 2020. It's an HR system
@@ -293,9 +313,16 @@ systems, embedded hardware, secure networking protocols and ML inference "at
 the tactical edge". They have their own recruitment function, so it may be
 hard to get in.
 
-- Careers page: <https://helsing.ai/careers>
+As of October 2026 their job board lists these roles with Stockholm as a
+possible location: [Software Engineer - Backend][helsing-backend] and
+[Deployed AI Engineer][helsing-deployed] (both also Berlin, London, Munich,
+Paris), plus a Stockholm-only (Senior) Programme Manager.
+
+- Careers page: <https://helsing.ai/careers> (jobs on <https://helsing.ai/jobs>)
 
 [helsing-job]: https://www.linkedin.com/jobs/view/4435909275/
+[helsing-backend]: https://helsing.ai/jobs/4125061101
+[helsing-deployed]: https://helsing.ai/jobs/4516967101
 
 ## Hypertype
 
@@ -460,6 +487,27 @@ Farberger, among others).
 
 [landfors]: https://se.linkedin.com/in/landfors
 
+## Opper AI
+
+Opper (Opper Technology AB) is a Stockholm AI gateway: one EU-hosted API in
+front of 700+ models, with routing and failover, spend caps, model allowlists
+and zero data retention. It works with the OpenAI, Anthropic and Gemini SDKs
+and with coding agents like Claude Code and Cursor. They raised a [$3M pre-seed
+round][opper-seed] in July 2025, led by Luminar Ventures with Emblem and Greens
+Capital, when they were seven people.
+
+The founders are Göran Sandahl and Johan Gustafsson, who previously co-founded
+Unomaly (acquired by LogicMonitor in 2020). I have been in contact with
+[Göran][goransandahl] before.
+
+Not hiring as far as I know.
+
+- I couldn't find a careers page; general contact is <hello@opper.ai>.
+- Tech stack: TypeScript (their SDK and CLI; backend unknown)
+
+[opper-seed]: https://tech.eu/2025/07/15/lovable-backers-back-swedish-ai-infrastructure-startup-opper/
+[goransandahl]: https://www.linkedin.com/in/goransandahl/
+
 ## Pilloxa
 
 Pilloxa is a Stockholm medtech company that builds a smart pillbox plus an app
@@ -481,7 +529,7 @@ Klarna, Trustly, Payson, etc.
 
 Petter Sehlin is the founder.
 
-- I couldn't find a careers page.
+- Careers page: <https://www.linkedin.com/company/pingpayments/jobs/>
 
 ## PinMeTo
 
@@ -524,6 +572,7 @@ mentioning .NET/C#.
 
 Andreas Kardell was previously CTO; I couldn't find who has the role now.
 
+- Tech stack: C# / F#
 - Careers page: <https://www.proffsmagasinet.se/kunskapsportalen/jobba-pa-proffsmagasinet>
 
 ## Proposales
@@ -574,13 +623,37 @@ backend developers (TypeScript/Node.js).
 ## Redpine
 
 Redpine is a Stockholm startup, founded in 2024, that sells licensed,
-non-public data to AI agents and model training via API, MCP and CLI. They
-have been hiring AI engineers and knowledge graph engineers.
+non-public data (e.g. scientific data) to AI agents and model training via API,
+MCP and CLI. They raised a [€6.8M seed round][redpine-seed] in April 2026, led
+by NordicNinja with Luminar Ventures and node.vc, and said they would scale
+hiring across engineering, data science and commercial. It's a small team, and
+I couldn't see a recruiter or talent person, so they could be a good fit.
 
 Founders: Anders Hammarbäck (CEO, ex-McKinsey/Antler) and David Österdahl
-(Chief Product & Technology Officer, ex-Spotify, Zettle, Lunar).
+(Chief Product & Technology Officer, ex-Spotify, Zettle, Lunar). David is
+probably the one to talk to about tech hiring.
 
-- Careers page: <https://www.redpine.ai/careers>
+Open roles (all office-first, central Stockholm, as of October 2026):
+
+- [AI Engineer, Platform Infrastructure][redpine-infra]: Kubernetes, vector
+  databases, object storage, streaming/ingestion pipelines
+- [Senior Knowledge Graph Engineer][redpine-kg]: Python, graph databases,
+  entity resolution, ontology design, graph-backed RAG
+- [Applied AI Engineer][redpine-applied]: Python, PyTorch, model serving,
+  Docker/Kubernetes
+- Designer, Brand & Product, and a Commercial role
+
+They also posted a Head of Engineering role (reporting to David) in July 2026,
+which has since closed.
+
+- Careers page: <https://www.redpine.ai/careers> (jobs on
+  <https://jobs.ashbyhq.com/redpine>)
+- Tech stack: Python, Kubernetes
+
+[redpine-seed]: https://tech.eu/2026/04/28/redpine-secures-eur68m-to-power-ai-with-premium-data/
+[redpine-infra]: https://jobs.ashbyhq.com/redpine/7034ca3f-caff-4f5a-b3bf-5fb25bbd4c2c
+[redpine-kg]: https://jobs.ashbyhq.com/redpine/a31edb99-d395-4753-aded-94795c861c50
+[redpine-applied]: https://jobs.ashbyhq.com/redpine/e169da47-af5e-4151-b479-d44b0165d614
 
 ## RENZ
 
@@ -783,6 +856,31 @@ My friend Robin works there.
 ## Validio
 
 - Careers page: <https://jobs.ashbyhq.com/validio>
+
+## Velora Health
+
+Velora Health is a Stockholm health tech startup founded in 2023, with about 20
+employees. They run a digital obesity clinic and say they plan to expand into
+broader chronic care. Engineering is 5–6 people and they expect to roughly
+double it within a year.
+
+They're hiring two full-stack engineers (hybrid, about one office day a week):
+[Platform & Integrations][velora-platform] (Stripe payments/subscriptions,
+BankID, third-party integrations, their internal clinician tool) and
+[Product & Patient Experience][velora-product] (patient web app and iOS/Android
+apps). Both ask for 3+ years of production experience, ideally TypeScript, and
+fluent Swedish. They're also hiring a Head of Growth and physicians.
+
+No external recruiter or in-house talent person is mentioned (Teamtailor is
+just their career site), so they may fit our ICP. I couldn't find a named
+hiring manager or CTO.
+
+- Careers page: <https://karriar.velora.se/jobs>
+- Tech stack: TypeScript (React, React Native, Hono on Bun, Drizzle,
+  PostgreSQL, GCP)
+
+[velora-platform]: https://karriar.velora.se/jobs/8367570-full-stack-engineer-platform-integrations-healthtech
+[velora-product]: https://karriar.velora.se/jobs/8367545-full-stack-engineer-product-patient-experience-healthtech
 
 ## VetFamily
 
